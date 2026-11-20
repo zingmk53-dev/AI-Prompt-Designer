@@ -1,0 +1,6 @@
+{
+  "name": "Sneh Atelier — Perfume Lotion Ads Prompt Studio",
+  "description": "Luxury UI/UX creative studio for crafting fresh, high-converting Facebook Ads image generation prompts and Khmer ad copy for Sneh Perfume Lotion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
